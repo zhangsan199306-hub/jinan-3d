@@ -1,0 +1,6 @@
+{
+  "name": "ChronoForge — 3D Mechanical & Celestial Creation Studio",
+  "description": "Interactive Three.js 3D creation studio featuring composite procedural horological tourbillons, celestial armillary orreries, and kinetic architectural pavilions with PBR studio lighting and exploded-view inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
